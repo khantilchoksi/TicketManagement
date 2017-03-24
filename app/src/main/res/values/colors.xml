@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#02bfff</color>
+    <color name="colorPrimaryDark">#007fab</color>
+    <color name="colorAccent">#02bfff</color>
+
+    <color name="lightGray">#F5F5F5</color>
+    <color name="grayForDivider">#E0E0E0</color>
+
+    <color name="showTicketColorPrimary">#12e1c4</color>
+    <color name="showTicketColorPrimaryDark">#0cc5b3</color>
+
+    <!-- Primary Text Title Black 87% (hex 57)-->
+    <color name="primaryTextColor">#d9000000</color>
+
+    <!-- Primary Text Title Black 54% (hex 36)-->
+    <color name="secondaryTextColor">#8c000000</color>
+
+    <!-- Primary Text Title Black 38% (hex 26)-->
+    <color name="disabledTextColor">#38000000</color>
+
+</resources>

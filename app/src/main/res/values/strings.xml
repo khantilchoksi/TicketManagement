@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">iTechnoSol Ticket Management</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="not_registered"> Not registered client?</string>
+    <string name="register"> Click here to register!</string>
+    <string name="error_invalid_email">This email address is not registered</string>
+    <string name="error_invalid_password">Please enter password</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="permission_contacts_rationale">Contacts permissions are needed for providing contact person phone number!</string>
+    <string name="permission_camera">Write - Read permission are needed for taking pictures!</string>
+    <string name="ok">OK</string>
+    <string name="settings">Settings</string>
+    <string name="permission_setting">Enable permission for contacts.</string>
+    <string name="title_activity_main">Manage Tickets</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_new_ticket">Create New Ticket</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_ticket_details">New Ticket Details</string>
+
+    <string name="title_activity_issue">Issue Type</string>
+    <string name="title_activity_show_ticket">Ticket Details</string>
+
+    <string name="base_url">http://192.168.2271/projlar/itechnosol/public/</string>
+
+    <string name="login_pref">MyLoginPref</string>
+    <string name="title_activity_issue_images_pager">View Issue Image</string>
+
+    <string name="select_project_title">Select your project</string>
+    <string name="select_issue_type_title">Select your issue type</string>
+    <string name="enter_ticket_details_title">Enter ticket details</string>
+
+    <!-- Show ticket details activity string constants-->
+
+
+    <string name="action_search">Search Tickets</string>
+    <string name="action_filter">Filter Tickets</string>
+
+    <string name="filtered_tickets_title">Tickets for this project</string>
+
+    <!-- Project Filter Activity-->
+    <string name="title_activity_project_filter">Tickets Filter</string>
+    <string name="select_project_filter">Select project to filter tickets</string>
+
+
+    <string name="ticket_title_transition_name">Title Transition</string>
+</resources>
